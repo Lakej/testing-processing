@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  background: url(ipnfondo.jpg);
+}
+body .contenido {
+  width: 50%;
+  background-color: #ff0000;
+  color: #000000;
+}
+
+/*# sourceMappingURL=prueba.css.map */

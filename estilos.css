@@ -1,0 +1,24 @@
+.cabecera{
+    font-family: tahoma, geneva, sans-serif;
+    text-align: center;
+}
+.contenido{
+    background: url(ipnfondo.jpg);
+    text-align: right;
+    
+}
+.sidebar{
+    
+}
+#intro .contenido em{
+    background-color: black;
+    color: aqua;
+}
+#intro .contenido p{
+    font-family: Tahoma, geneva, sans-serif;
+    font-size: 20px;
+    padding: inherit;
+    margin: 30;
+    background-color: brown;
+    color: azure;   
+}
