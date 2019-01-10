@@ -11,14 +11,14 @@
     
 }
 #intro .contenido em{
+    text-align: center;
     background-color: black;
     color: aqua;
 }
 #intro .contenido p{
+    text-align: center;
     font-family: Tahoma, geneva, sans-serif;
     font-size: 20px;
-    padding: inherit;
-    margin: 30;
-    background-color: brown;
+    background-color: azure;
     color: azure;   
 }
